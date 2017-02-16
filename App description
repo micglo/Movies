@@ -1,0 +1,3 @@
+Aplikacja webowa w technologii Asp.Net WebApi 2. Jako wartwę bazy danych wykorzystano MongoDb oraz bibliotekę Asp.Net.Identity.MongoDb, 
+zarządzać użytkownikami i ich rolami. Podstawowe logowanie błędów za pomocą NLoga. Autentykacja przy użyciu JWT. Utrzymywanie tokena
+za pomocą refresh tokena. SimpleInjector jako IoC.
