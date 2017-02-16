@@ -1,0 +1,16 @@
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\Movies.Domain.dll.config
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\Movies.Domain.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\Movies.Domain.pdb
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\AspNet.Identity.MongoDB.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\MongoDB.Bson.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\MongoDB.Driver.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\MongoDB.Driver.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\obj\Debug\Movies.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\obj\Debug\Movies.Domain.dll
+C:\Users\Michal\Documents\Visual Studio 2015\Projects\Movies\Movies.Domain\obj\Debug\Movies.Domain.pdb
